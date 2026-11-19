@@ -1,4 +1,4 @@
-# Manuscript-ready Methods text
+#  Methods text
 
 ## AI-supported educational intervention
 
