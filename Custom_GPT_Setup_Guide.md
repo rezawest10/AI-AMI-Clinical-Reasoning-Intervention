@@ -1,4 +1,4 @@
-# Custom GPT setup and reconstruction guide
+#GPT setup and reconstruction guide
 
 ## Scope
 
