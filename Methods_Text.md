@@ -10,12 +10,4 @@ The Custom GPT instructions constrained the interaction to the assigned scenario
 
 The AI-generated feedback was used solely for formative educational purposes. It was not used to calculate or replace any formal study outcome. Because the intervention was delivered through a hosted generative-AI service, exact wording may vary across sessions and over time; reproducibility was therefore defined at the level of the intervention configuration, scenario content, interaction sequence, timing, and feedback framework rather than identical token-by-token outputs.
 
-## Technical details to verify before submission
 
-Only add the following details if supported by contemporaneous study records:
-- Exact model name/version displayed in the Custom GPT configuration during the intervention.
-- Whether students accessed the Custom GPT through a shared link, institution-managed accounts, or individual ChatGPT accounts.
-- Any account or subscription requirements that materially affected access.
-- Whether the Custom GPT was published as private, link-accessible, or otherwise restricted.
-
-Do not report API temperature, top-p, token limits, API usage, token counts, or a custom application architecture: these do not describe the implementation reported by the researcher.
